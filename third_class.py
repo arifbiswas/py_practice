@@ -36,6 +36,22 @@
 
 # practice 2 
 
-subjects = {"python", "java","python",'C++','javascript','java','python','java','C++',"C"}
+# subjects = {"python", "java","python",'C++','javascript','java','python','java','C++',"C"}
 
-print("Need calssroom of number" , len(subjects))
+# print("Need calssroom of number" , len(subjects))
+
+# pratice 3 
+
+# marks = {}
+
+# x = input("Enter you marks of js : ")
+# marks.update({"js": x})
+# x = input("Enter you marks of java : ")
+# marks.update({"java": x})
+# x = input("Enter you marks of py : ")
+# marks.update({"py": x})
+
+
+
+
+# print(marks)
