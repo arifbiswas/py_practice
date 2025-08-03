@@ -91,11 +91,13 @@
 
 
 # print(sum)
-n  = int(input("Input your number : "))
+# n  = int(input("Input your number : "))
 
-facorial = 1
+# facorial = 1
 
-for num in range(1,n+1) : 
-    facorial *= num
+# for num in range(1,n+1) : 
+#     facorial *= num
 
-print(facorial)
+# print(facorial)
+
+
